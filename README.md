@@ -1,8 +1,9 @@
-# Hey 👋 I'm Shivam
+<div align="center">
+    # Hey 👋 I'm Shivam
 
-🚀 Builder | B.Tech Student | Future Tech Founder  
-💡 Turning real-world problems into scalable tech solutions  
-
+    🚀 Builder | B.Tech Student | Future Tech Founder  
+    💡 Turning real-world problems into scalable tech solutions  
+    </div>
 ---
 
 ## 🧠 About Me
