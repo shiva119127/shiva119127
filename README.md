@@ -37,7 +37,7 @@ A Passionate Developer and Problem Solver
 
 ### `> whoami`
 
-```yaml
+
 name      : Shivam Singh
 role      : B.Tech CSE Student
 location  : Bengaluru, Karnataka, India
