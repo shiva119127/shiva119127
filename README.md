@@ -39,8 +39,8 @@ A Passionate Developer and Problem Solver
 
 
 name      : Shivam Singh                                                                      
-role      : B.Tech CSE Student
-location  : Bengaluru, Karnataka, India
+role      : B.Tech CSE Student                                                              
+location  : Bengaluru, Karnataka, India                                                       
 degree    : B.Tech CSE  |  Semester 2
 
 focus:
