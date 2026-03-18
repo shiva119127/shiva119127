@@ -9,7 +9,7 @@
 <!-- TYPING - NAME -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=40&duration=2000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&height=80&lines=I+am+Uttkarsh+Chambiyal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=40&duration=2000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&height=80&lines=I+am+Shivam+Singh)](https://git.io/typing-svg)
 
 </div>
 
