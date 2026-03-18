@@ -24,9 +24,9 @@
 
 <h3 align="center">
 A Passionate Developer and Problem Solver
-&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
-&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Dev" width="25" height="25" />
+&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" />
+&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" />
+&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="25" />
 </h3>
 
 <br/>
@@ -38,7 +38,7 @@ A Passionate Developer and Problem Solver
 ### `> whoami`
 
 ```yaml
-name      : Uttkarsh Chambiyal
+name      : Shivam Singh
 role      : B.Tech CSE Student
 location  : Bengaluru, Karnataka, India
 degree    : B.Tech CSE  |  Semester 2
@@ -65,7 +65,6 @@ open_to:
   - Hackathons
   - Freelance Projects
   - Open Source
-```
 
 <br clear="right"/>
 
