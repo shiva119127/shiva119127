@@ -65,3 +65,63 @@ open_to:
   - Hackathons
   - Freelance Projects
   - Open Source
+
+<br clear="right"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttkarsh-chambiyal-3495a8380/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.uttkarshchambiyal.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uttkarshchambiyal26@gmail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/uttkarshx26)
+![Profile Views](https://komarev.com/ghpvc/?username=Uttkarshchambiyal&style=flat-square&color=C77DFF&label=views)
+
+</div>
+
+---
+
+### `> tech --stack`
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=java,cpp,c,js,html,css&theme=dark)](https://skillicons.dev)
+
+**Design & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=figma,git,github,gitlab,vscode,bootstrap&theme=dark)](https://skillicons.dev)
+
+**Currently Learning**
+
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### `> cp --platforms`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shivam-singh/)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Shivam-singh/)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+
+<sub>made with <b>💜</b> &nbsp;|&nbsp; <b>shivam-singh</b> &nbsp;|&nbsp; Bengaluru 2026</sub>
+
+</div>
